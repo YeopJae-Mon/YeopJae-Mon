@@ -5,6 +5,9 @@
 - 💞️ 현재는 아직 몸관리를 하면서 취업을 준비하고 있습니다.
 - 📫 연락처는 email: 1015samuel@naver.com 입니다.
 
+* git ignore에 대해 알아보고 있습니다.
+* android studio에 대해서 데이터나 서버쪽으로 더 알아보려고 합니다.
+
 <!---
 YeopJae-Mon/YeopJae-Mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
