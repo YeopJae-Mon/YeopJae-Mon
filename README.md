@@ -7,6 +7,8 @@
 
 * git ignore에 대해 알아보고 있습니다.
 * android studio에 대해서 데이터나 서버쪽으로 더 알아보려고 합니다.
+* 현재 국민취업제도를 통해서 상담을 받고 있는 상태입니다.
+
 
 <!---
 YeopJae-Mon/YeopJae-Mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
