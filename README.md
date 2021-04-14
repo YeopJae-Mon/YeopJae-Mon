@@ -17,6 +17,10 @@
 * 현재 취업 준비 관련 과제? 등을 받아서 커밋할 시간이 조금 부족하여서 시간 여유날때 마다 하겠습니다.
 * 사랑니, 축농증 등 나중에 시간내기 힘든 것들을 현재 미리미리 수술하여 최적의 몸상태를 만들려 하고 있습니다.ㅠㅠ
 
+#현재 관심을 가지는 저장소
+*물리치료 어플
+*센서사용게임
+
 
 <!---
 YeopJae-Mon/YeopJae-Mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
