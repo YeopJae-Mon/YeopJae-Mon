@@ -18,9 +18,12 @@
 * 사랑니, 축농증 등 나중에 시간내기 힘든 것들을 현재 미리미리 수술하여 최적의 몸상태를 만들려 하고 있습니다.ㅠㅠ
 
 # 현재 관심을 가지는 저장소
-* 물리치료 어플
-* 센서사용게임
+* YeopJae-Mon/Physical_Project (물리치료 정보전달 어플 개발)
+* YeopJae-Mon/Practice_SensorAndroid_Project (센서를 이용한 장애물 피하기 어플)
 
+# 선호하는 언어
+* Java(android)
+* php
 
 <!---
 YeopJae-Mon/YeopJae-Mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
