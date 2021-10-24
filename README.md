@@ -29,6 +29,8 @@
 * Java
 * php
 
+# 커밋을 생활화 하자!!!
+
 <!---
 YeopJae-Mon/YeopJae-Mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
